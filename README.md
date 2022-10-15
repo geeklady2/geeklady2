@@ -6,8 +6,8 @@
 
 
 The public code repositories are not a good representation of what I am capble of, they tend to be quick one-off
-projects done for a volunteer group, inheriting code for a volunteer group, or something developed for teaching
-purposes
+projects done for a volunteer group, inheriting code for a volunteer group, fill a gap at work (I'm not a developer)
+or something developed for teaching purposes
 
 <!---
 geeklady2/geeklady2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
