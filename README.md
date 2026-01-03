@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geeklady2
 - 👀 I’m a curious person, current interests are project management and teaching methologies
-- 🌱 I’m currently learning advanced HTML/CSS, serverless development and single page applications 
+- 🌱 I’m currently learning Quantum Computing / Sensing
 - 💞️ I’m looking to collaborate on nothing in particular, but open to ideas
 - 📫 How to reach me, find me on linkedin (https://www.linkedin.com/in/sdjaeger/)
 
